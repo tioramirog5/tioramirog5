@@ -1,4 +1,5 @@
-!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -54,7 +55,6 @@
     </div>
     <footer>
         <p>Síguenos en Instagram: <a href="https://www.instagram.com/tioramirog5" target="_blank">@tioramirog5</a></p>
-        <p>Síguenos en TikTok: <a href="https://www.tiktok.com/@tioramirog5_" target="_blank">@tioramirog5_</a></p>
     </footer>
 </body>
-</html>
+</html
