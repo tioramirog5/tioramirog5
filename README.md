@@ -54,7 +54,7 @@
         <p>Para realizar tu compra, contáctanos a través de nuestras redes sociales.</p>
     </div>
     <footer>
-        <p>Síguenos en Instagram: <a href="https://www.instagram.com/tu_usuario" target="_blank">@tu_usuario</a></p>
+        <p>Síguenos en Instagram: <a href="https://www.instagram.com/tioramirog5" target="_blank">@tioramirog5</a></p>
     </footer>
 </body>
 </html
